@@ -1,2 +1,2 @@
 # jupyter
-https://sumengr.github.io/jupyter/ridgereg.html
+[this is a test](https://sumengr.github.io/jupyter/ridgereg.html)
